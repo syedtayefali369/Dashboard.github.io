@@ -1,12 +1,13 @@
 # Dashboard 🌐
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Pages](https://github.com/[YourUsername]/Dashboard.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/[YourUsername]/Dashboard.github.io/actions)
+[![GitHub Pages](https://github.com/syedtayefali369/Dashboard.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/syedtayefali369/Dashboard.github.io/)
 
-A modern web dashboard for organizing and monitoring various services and data sources. Hosted on GitHub Pages.
+### A modern web dashboard for organizing and monitoring various services and data sources. Hosted on GitHub Pages.
 
-![Dashboard Screenshot](screenshots/dashboard-preview.png)
+<img width="1431" alt="Dashboard" src="https://github.com/user-attachments/assets/8116f906-07a5-452e-9e48-f9308849d362" />
 
+### 🔴Live-preview -https://syedtayefali369.github.io/Dashboard.github.io/
 ## Features ✨
 
 - **Customizable Widgets**: Arrange multiple widgets in a grid layout
@@ -31,17 +32,20 @@ A modern web dashboard for organizing and monitoring various services and data s
 ```bash
 git clone https://github.com/[YourUsername]/Dashboard.github.io.git
 Navigate to project directory:
-
-bash
+```
+```bash
 cd Dashboard.github.io
+```
 Install dependencies:
 
-bash
+```bash
 npm install
+```
 Open in browser:
 
-bash
+```bash
 npm start
+```
 Usage 🚀
 Customize widgets by clicking the ⚙️ icon
 
