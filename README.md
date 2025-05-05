@@ -1,9 +1,6 @@
 # Dashboard 🌐
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Pages](https://github.com/syedtayefali369/Dashboard.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/syedtayefali369/Dashboard.github.io/)
-
-### A modern web dashboard for organizing and monitoring various services and data sources. Hosted on GitHub Pages.
+**A modern web dashboard for organizing and monitoring various services and data sources. Hosted on GitHub Pages.**
 
 <img width="1431" alt="Dashboard" src="https://github.com/user-attachments/assets/8116f906-07a5-452e-9e48-f9308849d362" />
 
@@ -46,7 +43,7 @@ Open in browser:
 ```bash
 npm start
 ```
-Usage 🚀
+## Usage 🚀
 Customize widgets by clicking the ⚙️ icon
 
 Drag and drop widgets to rearrange
@@ -61,12 +58,15 @@ Configuration ⚙️
 Create a config.js file with your API keys:
 
 javascript
+```
 const CONFIG = {
   WEATHER_API_KEY: 'your_openweathermap_key',
   GITHUB_API_TOKEN: 'your_github_token',
   GITHUB_USERNAME: 'your_github_username'
 };
-Contributing 🤝
+```
+## Contributing 🤝
+
 Contributions are welcome! Please follow these steps:
 
 Fork the project
@@ -77,10 +77,11 @@ Commit your changes (git commit -m 'Add some AmazingFeature')
 
 Push to the branch (git push origin feature/AmazingFeature)
 
-Open a Pull Request
+## Open a Pull Request
 
 License 📄
 Distributed under the MIT License. See LICENSE for more information.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Acknowledgements 🙏
 GitHub API for repository data
@@ -92,3 +93,4 @@ Bootstrap for responsive layout components
 Chart.js for data visualization
 
 📫 Contact: [Syed Tayef] - tayefrules@gmail.com
+
