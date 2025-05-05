@@ -57,14 +57,14 @@ Toggle dark/light mode using the moon/sun icon
 Configuration ⚙️
 Create a config.js file with your API keys:
 
-javascript
-```
+- **javascript.js**
+````
 const CONFIG = {
   WEATHER_API_KEY: 'your_openweathermap_key',
   GITHUB_API_TOKEN: 'your_github_token',
   GITHUB_USERNAME: 'your_github_username'
 };
-```
+````
 ## Contributing 🤝
 
 Contributions are welcome! Please follow these steps:
