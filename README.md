@@ -83,14 +83,15 @@ License 📄
 Distributed under the MIT License. See LICENSE for more information.
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Acknowledgements 🙏
-GitHub API for repository data
+## Acknowledgements 🙏
 
-OpenWeatherMap for weather data
+-**GitHub API for repository data**
 
-Bootstrap for responsive layout components
+-**OpenWeatherMap for weather data**
 
-Chart.js for data visualization
+-**Bootstrap for responsive layout components**
+
+-**Chart.js for data visualization**
 
 📫 Contact: [Syed Tayef] - tayefrules@gmail.com
 
